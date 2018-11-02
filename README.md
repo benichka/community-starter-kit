@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This project is a dummy project and is part of the github learning lab.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This project does the following:
+- guide the user to prepare their project for OSS;
+- some other stuff.
 
 ## Getting started
 
